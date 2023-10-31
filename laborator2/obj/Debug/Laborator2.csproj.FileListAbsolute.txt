@@ -1,0 +1,14 @@
+C:\Users\Vasile Bordei\Desktop\OpenTK_Introducere\OpenTK_console_sample01\bin\Debug\OpenTK_console_sample01.exe.config
+C:\Users\Vasile Bordei\Desktop\OpenTK_Introducere\OpenTK_console_sample01\bin\Debug\OpenTK_console_sample01.exe
+C:\Users\Vasile Bordei\Desktop\OpenTK_Introducere\OpenTK_console_sample01\bin\Debug\OpenTK_console_sample01.pdb
+C:\Users\Vasile Bordei\Desktop\OpenTK_Introducere\OpenTK_console_sample01\bin\Debug\OpenTK.dll
+C:\Users\Vasile Bordei\Desktop\OpenTK_Introducere\OpenTK_console_sample01\bin\Debug\OpenTK.GLControl.dll
+C:\Users\Vasile Bordei\Desktop\OpenTK_Introducere\OpenTK_console_sample01\bin\Debug\OpenTK.pdb
+C:\Users\Vasile Bordei\Desktop\OpenTK_Introducere\OpenTK_console_sample01\bin\Debug\OpenTK.xml
+C:\Users\Vasile Bordei\Desktop\OpenTK_Introducere\OpenTK_console_sample01\bin\Debug\OpenTK.GLControl.xml
+C:\Users\Vasile Bordei\Desktop\OpenTK_Introducere\OpenTK_console_sample01\obj\Debug\Laborator2.csproj.AssemblyReference.cache
+C:\Users\Vasile Bordei\Desktop\OpenTK_Introducere\OpenTK_console_sample01\obj\Debug\Laborator2.csproj.SuggestedBindingRedirects.cache
+C:\Users\Vasile Bordei\Desktop\OpenTK_Introducere\OpenTK_console_sample01\obj\Debug\Laborator2.csproj.CoreCompileInputs.cache
+C:\Users\Vasile Bordei\Desktop\OpenTK_Introducere\OpenTK_console_sample01\obj\Debug\Laborator2.csproj.CopyComplete
+C:\Users\Vasile Bordei\Desktop\OpenTK_Introducere\OpenTK_console_sample01\obj\Debug\OpenTK_console_sample01.exe
+C:\Users\Vasile Bordei\Desktop\OpenTK_Introducere\OpenTK_console_sample01\obj\Debug\OpenTK_console_sample01.pdb
